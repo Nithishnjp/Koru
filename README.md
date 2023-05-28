@@ -1,1 +1,1 @@
-# Koru
+# Koru Angular app
